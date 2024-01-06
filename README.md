@@ -9,6 +9,7 @@ Bibliotecas necessárias:
 openai-whisper (O whisper só funciona bem até a versão do python 3.11.x) - Criei um ambiente virtual no pyCharm.
 pytelegrambotapi
 Necessário baixar também o executável ffmpeg
+Também é necessário criar um bot no telegram, envie uma mensagem para o "BotFather"
 
 
  Créditos e agradecimentos:
